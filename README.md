@@ -1,3 +1,4 @@
 # amr-project
 Here is my first Git Repository.
-Project by Arbaz Mohd Rashid Zaidi
+<br>
+<b>Project by Arbaz Mohd Rashid Zaidi</b>
